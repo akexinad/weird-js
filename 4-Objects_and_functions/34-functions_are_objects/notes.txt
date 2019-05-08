@@ -1,0 +1,23 @@
+THE MOST FUNDAMENTAL AND IMPORTANT CONCEPT
+##########################################
+
+And this is.....
+
+THE FIRST CLASS FUNCTIONS
+#########################
+
+- Everything you can do with other types you can do with functions.
+- Assign them to variables, pass them around, create them on the fly.
+
+- This function is a SPECIAL TYPE OF OBJECT.
+- Like an object, you can attach to it:
+  - Primitives (name value pairs).
+  - Other objects.
+  - Other functions.
+
+- A function can be anonymous, it doesn't have to have a name.
+- A function has a separate CODE property and is INVOCABLE.
+
+FUNCTIONS ARE OBJECTS
+
+FUNCTIONS ARE OBJECTS

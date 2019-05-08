@@ -1,0 +1,7 @@
+NAME/VALUE PAIR (or key/value pairs)
+###############
+
+- A name which maps to a unique value.
+- Objects are collections of name/value pairs.
+
+####

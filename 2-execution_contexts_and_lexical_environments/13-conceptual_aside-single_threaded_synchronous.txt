@@ -1,0 +1,12 @@
+SINGLE THREADED
+###############
+
+- Pretty much means one command at a time.
+
+####
+
+
+SYNCHRONOUS
+###########
+
+- One at a time and in order.

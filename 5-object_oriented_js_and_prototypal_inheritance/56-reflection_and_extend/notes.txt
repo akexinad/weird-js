@@ -1,0 +1,4 @@
+REFLECTION
+##########
+
+- An object can look at itself, listing and changing its properties and methods.

@@ -1,0 +1,4 @@
+-When you look at the source code of every major framework, you will notice that it is wrapped in an IIFE, that is:
+( function ... all the code here and at the very end... () )
+
+- This is to ensure that the framework code is executed inside its OWN EXECUTION CONTEXT and does not collide with the code in the GLOBAL EXECUTION CONTEXT. Ensuring that both stacks of code are found in two separate addresses in your memory.

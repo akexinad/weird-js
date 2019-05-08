@@ -1,0 +1,5 @@
+CALLBACK FUNCTION
+#################
+
+- A function to be given to another function when the latter other is finished.
+- So the function you call (i.e. invoke), 'call back' by invoking/calling the function you gave it when it finishes.

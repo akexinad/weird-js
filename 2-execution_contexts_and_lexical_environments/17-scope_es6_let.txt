@@ -1,0 +1,13 @@
+SCOPE
+#####
+
+- Where a variable is available in your code.
+- And if it is truly the same variable, or a new copy.
+
+####
+
+
+ES6
+###
+
+The 'let' variable declaration allows for something called BLOCKED SCOPING.

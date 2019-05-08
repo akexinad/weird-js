@@ -1,0 +1,7 @@
+NAMESPACE
+#########
+
+- A container for variables and functions
+- Typically to keep variables and functions with the same name separate.
+
+NB: THE DOT IS AN OPERATOR: THEREFORE IT IS A FUNCTION.

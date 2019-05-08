@@ -1,0 +1,3 @@
+HERE IT IS. During the CREATION PHASE of the execution context, the variable name passed into the function argument is given a value of undefined in memory.
+
+The || operator will return the first value that can be coerced into true.

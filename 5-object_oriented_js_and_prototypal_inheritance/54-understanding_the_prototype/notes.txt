@@ -1,0 +1,15 @@
+- SEE DIAGRAM
+
+- All objects have a prototype property.
+
+- When obj looks for prop2 and does not find it, it goes down into its proto {} and looks for prop2 there. If it finds it, it returns.
+
+- So prop2 may seem its on the obj property when in reality its on its proto {}.
+
+- THE JS ENGINE DOES THE WORK OF LOOKING DOWN WHATS IS CALLED THE PROTOTYPE CHAIN. Similar to the scope chain in function, but different in nature.
+
+- Objects can share all the same prototypes.
+    - So when you create an obj2 and search for prop2, both obj.prop2 and obj2.prop2 are actually pointing as the same spot in memory.
+
+
+- BECAUSE EVERYTHING IN JS IS AN OBJECT!

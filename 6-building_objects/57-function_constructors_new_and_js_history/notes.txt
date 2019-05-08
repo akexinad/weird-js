@@ -1,0 +1,11 @@
+- Remember that when you invoke a function and create a new execution context, you get 'this'.
+- When you use the 'new' operator, it changes what 'this' points to. It points to the new empty object that the 'new' operator creates.
+
+
+####
+
+FUNCTION CONSTRUCTOR
+####################
+
+- A normal function that is used to construct objects.
+- The 'this' variable points to a new empty object, and that object is returned from the function automatically.

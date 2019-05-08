@@ -1,0 +1,5 @@
+METHOD CHAINING
+###############
+
+- Calling one method after another, and each method affects the parent object.
+- So obj.method1().method2() where both methods end up with a 'this' variable pointing to an 'obj'.

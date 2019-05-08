@@ -1,0 +1,6 @@
+OPERATOR
+########
+
+- It's actually a special function that is syntactically (written) differently.
+- Generally operators take two parameters and return one result.
+- Operator functions are written in INFIX NOTATION. That is the function sits between the parameters in question. It makes it more human-readable.

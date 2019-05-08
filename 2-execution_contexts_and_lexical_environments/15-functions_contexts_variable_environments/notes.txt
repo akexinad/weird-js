@@ -1,0 +1,5 @@
+VARIABLE ENVIRONMENTS
+#####################
+
+- Means where variables live.
+- AND how they relate to each other in memory.

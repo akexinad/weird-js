@@ -1,0 +1,29 @@
+SYNTAX PARSERS
+##############
+
+- A program that reads your code and determines what it does and if its grammar is valid.
+- You are not actually giving your computer the code, you are giving it a translation of it.
+- EG:
+
+    YOUR CODE --> COMPILER (syntax parsing) --> MACHINE INSTRUCTIONS
+
+####
+
+
+EXECUTION CONTEXTS
+##################
+
+- A wrapper to help manage the code that is running.
+- There are lots of of lexical environments. Which one is currently running is managed via execution contexts. It can contain things beyond what you've written in your code.
+
+####
+
+
+LEXICAL ENVIRONMENTS
+####################
+
+- Where something PHYSICALLY SITS in the code you write.
+- A lexical environment exists in programming languages in which WHERE you write something is IMPORTANT.
+- So when we talk about lexical environment, we are talking about WHERE IT IS WRITTEN AND WHAT SURROUNDS IT.
+
+####

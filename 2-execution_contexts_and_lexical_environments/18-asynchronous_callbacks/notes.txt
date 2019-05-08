@@ -1,0 +1,25 @@
+ASYNCHRONOUS
+############
+
+- More than one at a time.
+
+####
+
+
+- The browser has many types of engines or softwares working inside of it for example
+  - THE JS ENGINE itself.
+  - THE RENDERING ENGINE which defines what the page looks like.
+  - HTTP REQUESTS
+
+- The JS engine has links to these various engines. It is when the JS engine requests some form of functionality from the engines is when you have asynchronous actions happen.
+
+- BUT REMEMBER THE CODE THAT HAPPENS INSIDE OF THE JS ENGINE IS IN FACT SYNCHRONOUS.
+
+- So inside the JS Engine, you actually have your Global Execution Context at the bottom of the EXECUTION STACK, and next to it is the EVENT QUEUE.
+
+EVENT QUEUE
+###########
+
+- When you create a click events or make an Http request, the JS engine will actually look at your EVENT QUEUE ONLY WHEN THE EXECUTION STACK IS EMPTY.
+
+- THE BROWSER IS ASYNCHRONOUSLY PUTTING THINGS INTO THE EVENT QUEUE, BUT JS STILL EXECUTES ITS CODE SYNCHRONOUSLY.

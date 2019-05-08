@@ -1,0 +1,10 @@
+- Classes is just another way of creating objects, and setting the prototypes.
+
+- Classes, in reality are just...
+
+SYNTACTIC SUGAR
+###############
+
+- A different way to type something that doesn't change how it works under the hood.
+
+- CLASSES ARE STILL PROTOTYPAL INHERITANCE.

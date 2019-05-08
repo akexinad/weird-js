@@ -1,0 +1,9 @@
+- In this example, we are seeing an example of the LINK TO THE OUTER ENVIRONMENT.
+- WHICH ENVIRONMENT? THE LEXICAL ENVIRONMENT!
+- since there is no declaration of my var inside function b, it links to its outer scope found in the global execution context and takes that value of myVar and executes it.
+
+- JS cares about the lexical environment in the outer references which are found lower in the execution stacks.
+
+- THESE LINKS TO THE OUTER LEXICAL ENVIRONMENTS IS CALLED THE SCOPE CHAIN.
+
+- In this example, the console log goes DOWN THE SCOPE CHAIN to find the myVar that was declared at the global level.

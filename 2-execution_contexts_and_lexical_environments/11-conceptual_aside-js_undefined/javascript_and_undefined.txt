@@ -1,0 +1,5 @@
+- Just remember that undefined is a special value in JS.
+- When the execution context goes through the creation phase, undefined is the value that is initially assigned to any variable in memory.
+
+NOTE:
+- NEVER ASSIGN undefined YOURSELF!

@@ -1,0 +1,4 @@
+- Each EXECUTION CONTEXT has:
+  - a VARIABLE ENVIRONMENT.
+  - and an OUTER ENVIRONMENT where it looks down the scope chain for outer references.
+  - and 'THIS'.

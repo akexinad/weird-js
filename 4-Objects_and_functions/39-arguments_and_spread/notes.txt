@@ -1,0 +1,12 @@
+- INSIDE THE CREATION PHASE OF THE EXECUTION CONTEXT WE HAVE:
+  - VARIABLE ENVIRONMENT
+  - OUTER ENVIRONMENT
+  - 'THIS'
+  - 'ARGUMENTS'
+
+
+ARGUMENTS
+#########
+
+- The parameters you pass into a function.
+- JS gives you a keyword if the same name which contains them all.

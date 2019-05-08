@@ -1,0 +1,5 @@
+WHITESPACE
+##########
+
+- Invisible characters that create 'literal' in your written code.
+- Carriage returns, tabs, spaces.

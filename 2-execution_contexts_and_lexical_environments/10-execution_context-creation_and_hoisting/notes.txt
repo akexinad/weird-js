@@ -1,0 +1,20 @@
+- The function gets HOISTED up to the top but not var a.
+
+- This is because the EXECUTION CONTEXT is created in TWO PHASES:
+
+PHASE 1
+THE CREATION PHASE
+##################
+
+- the GLOBAL OBJECT, 'this' and the OUTER ENVIRONMENT is created and stored in memory.
+- IN ADDITION, it sets up Memory Space for Variables and Functions. THIS STEP (for some reason) IS CALLED HOISTING.
+
+- So in this phase, your code is ALREADY STORED IN MEMORY BEFORE IT EVEN BEGINS THE NEXT PHASE.
+- So when the engine goes back to grab the variable and the function, the variable is given an initial value/placeholder of undefined in memory, and the function is stored in its entirety.
+- This is one of the reasons why it is bad to rely on hoisting.
+
+PHASE 2
+THE EXECUTION PHASE
+###################
+
+- VARIABLE ASSIGNMENTS HAPPEN IN THE EXECUTION PHASE. This is the reason why your variable is initially undefined when executed.

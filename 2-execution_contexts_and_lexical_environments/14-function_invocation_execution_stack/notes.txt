@@ -1,0 +1,8 @@
+FUNCTION INVOCATION
+###################
+
+- Means running a function by using () at the end of the name of the function.
+- Whenever you invoke a function, A NEW EXECUTION CONTEXT is created, and is PLACE IN AN EXECUTION STACK ON TOP OF THE GLOBAL EXECUTION CONTEXT.
+  - Once the function has finished going through its execution phase, it is then POPPED OFF the execution stack.
+
+####

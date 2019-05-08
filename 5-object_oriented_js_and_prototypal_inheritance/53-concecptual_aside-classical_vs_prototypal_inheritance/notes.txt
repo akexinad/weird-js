@@ -1,0 +1,25 @@
+INHERITANCE
+###########
+
+- One object gets access to the properties and methods of another object.
+
+####
+
+
+CLASSICAL INHERITANCE
+#####################
+
+- Pretty much means what is currently best known and popular.
+- It exists in C#, Java and this is the way they share properties and methods.
+- It is not bad, but it can get very verbose.
+
+####
+
+
+PROTOTYPAL INHERITANCE
+######################
+
+- Much simpler compared to classical inheritance.
+- Flexible
+- Extensible
+- Easy to understand

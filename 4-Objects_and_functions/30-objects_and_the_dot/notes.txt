@@ -1,0 +1,8 @@
+- OBJECTS AND FUNCTIONS ARE VERY VERY RELATED.
+
+- AN OBJECT CAN HAVE:
+  - A 'Primitive property'.
+  - Another object, or an 'Object property'
+  - A FUNCTION, in this case the function is referred to as a METHOD.
+
+- THESE SIT IN MEMORY.

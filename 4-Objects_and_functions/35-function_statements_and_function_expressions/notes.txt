@@ -1,0 +1,8 @@
+EXPRESSION
+##########
+
+- A unit of code that results in a value.
+- It doesn't have to save to a variable.
+
+- STATEMENTS just do WORK, EXPRESSIONS give us the VALUE.
+- SINCE FUNCTIONS ARE OBJECTS, THEREFORE THERE ARE FUNCTION STATEMENTS, AND FUNCTION EXPRESSIONS.

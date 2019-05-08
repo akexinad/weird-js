@@ -1,0 +1,5 @@
+ASSOCIATIVITY
+#############
+
+- What order an operator functions get called in: left-to-right or right-to-left
+- When function have the SAME precedence.

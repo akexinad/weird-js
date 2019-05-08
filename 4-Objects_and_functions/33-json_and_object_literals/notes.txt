@@ -1,0 +1,12 @@
+- JSON = JS Object Notation.
+- JSON is inspired by the object literal notation.
+
+Before JSON, information was passed around in the form of XML:
+
+<object>
+  <firstname>Mary</firstname>
+  <isAProgrammer>true</isAProgrammer>
+</object>
+
+
+- ANYTHING JSON VALID IS OBJECT LITERAL VALID, BUT NOT VICE VERSA.

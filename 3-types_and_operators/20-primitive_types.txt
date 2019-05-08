@@ -1,0 +1,29 @@
+PRIMITIVE TYPES
+###############
+
+- A type of data that represents a single value.
+- That is, not an object.
+
+####
+
+
+THE LIST OF PRIMITIVE TYPES
+###########################
+
+UNDEFINED
+- represents a lack of existence (again, you should not set a variable to this).
+
+NULL
+- also represent a lack of existence (you can set a variable to this).
+
+BOOLEAN
+- true or false
+
+NUMBER
+- FLOATING PT NUMBER. Unlike other languages, there is only one 'number' type.
+
+STRING
+- sequence of characters (both '' and "")
+
+SYMBOL
+- Used in ES6

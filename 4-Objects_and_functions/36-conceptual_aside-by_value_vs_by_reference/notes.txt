@@ -1,0 +1,21 @@
+BY VALUE
+########
+
+- Means that when you declare a PRIMITIVE VARIABLE 'a' which is then stored in memory, and then you declare b = a, b will be a new copy of a with its own spot IN MEMORY.
+
+####
+
+BY REFERENCE
+############
+
+- Means that when you declare an OBJECT 'a', and then you declare b = a, IT IS THE SAME OBJECT IN MEMORY.
+
+####
+
+NOTE: All Primitive types are by VALUE and all objects are by REFERENCE.
+
+MUTATE
+######
+
+- To change something.
+- "Immutable" means it cannot be changed.

@@ -1,0 +1,6 @@
+- WE THINK AND CODE IN TERMS OF FUNCTIONS.
+- IT INTRODUCES AN ENTIRELY NEW WAY OF THINKING.
+
+- You should not that not all languages have first-class functions like javascript, this is why functional programming with javascript is possible as well as powerful!
+
+- Instead of thinking about separating your code into functions, functional programming makes you think how you can separate this further and break down you functions into smaller functions and creating more reusable snippets of code throughout your work.

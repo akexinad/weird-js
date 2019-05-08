@@ -1,0 +1,6 @@
+COERCION
+########
+
+- Converting a value from one type to another.
+
+- If you add a number and a string, the JS engine coerces the number into a string.

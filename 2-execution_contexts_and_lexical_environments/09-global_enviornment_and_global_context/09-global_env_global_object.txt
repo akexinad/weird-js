@@ -1,0 +1,13 @@
+- So when code is run, it runs inside an execution context. That is, THE WRAPPER that wraps and runs your code.
+
+- THE BASE EXECUTION CONTEXT IS YOUR GLOBAL EXECUTION CONTEXT.
+
+- The GLOBAL EXECUTION CONTEXT creates 2 things for you:
+  - 1) A GLOBAL OBJECT (A Collection of name/value pairs).
+  - 2) And a special variable called 'this'.
+
+- These two things are created for by the JAVASCRIPT ENGINE. In the case of the browser that is the V8 engine.
+
+- There will always be a global object, in the case of the browser, when you log 'this', it is the WINDOW.
+
+- Another thing you get within the EXECUTION CONTEXT is a link to the OUTER ENVIRONMENT.

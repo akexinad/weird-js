@@ -1,0 +1,5 @@
+- The principle reason of adding methods to the function constructor's prototype and not to the new instances of functions themselves is to SAVE MEMORY SPACE.
+
+- When saved on the prototype, the prototype chain will point to that particular address in memory and retrieve the method you invoke, instead of creating multiple copies of the same method in each constructor.
+
+- REMEMBER that there is only ONE PROTOTYPE FOR ALL OBJECTS. Properties have to be stored within the object because every object would have unique props. But methods are universal and thus its more efficient to save them on the prototype.

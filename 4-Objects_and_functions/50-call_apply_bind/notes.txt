@@ -1,0 +1,10 @@
+- JS has a way to control exactly what 'this' can be.
+
+- Since a function is a object, the function has access to methods such as call(), apply() and bind()
+
+
+FUNCTION CURRYING
+#################
+
+- Creating a copy of a function but with some preset parameters.
+- Very useful in mathematical situations.
